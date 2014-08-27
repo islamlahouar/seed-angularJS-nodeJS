@@ -1,1 +1,1 @@
-bonjour et bienvenue :
+seed-angularJS-nodeJS
